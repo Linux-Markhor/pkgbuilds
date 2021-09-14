@@ -1,0 +1,4 @@
+LSB_VERSION=1.4
+DISTRIB_ID=Markhorlinux
+DISTRIB_RELEASE=semi-rolling
+DISTRIB_DESCRIPTION="Markhor Linux"
